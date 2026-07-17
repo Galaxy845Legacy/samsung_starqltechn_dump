@@ -1,0 +1,24 @@
+{
+  "update_version": 1,
+  "min_swver": "",
+  "note": "Ims configs for KOR SIMs",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "SKT E911",
+        "mnoname": "SKT_KR",
+        "audio_codec": "AMRBE-WB,AMR-WB,AMRBE,AMR,DTMFWB,DTMF"
+      },
+      {
+        "name": "KT E911",
+        "mnoname": "KT_KR",
+        "audio_codec": "AMRBE-WB,AMR-WB,AMRBE,AMR,DTMFWB,DTMF"
+      },
+      {
+        "name": "LGU E911",
+        "mnoname": "LGU+_KR",
+        "audio_codec": "AMRBE-WB,AMR-WB,AMRBE,AMR,DTMFWB,DTMF"
+      }
+    ]
+  }
+}

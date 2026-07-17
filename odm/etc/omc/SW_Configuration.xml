@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-G9600</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>TGY</MultiCode>
+    <CustomerDataSet>
+        <CSCName>G9600TGY</CSCName>
+        <CSCVersion>9FZE1</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/TGY/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>TGY</CustomerCode>
+            <Version>SAOMC_SM-G9600_TGY_TGY_QQ_0020</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
